@@ -1,5 +1,10 @@
 [
   {
+    "file": ".gitattributes",
+    "bytes": 161,
+    "sha256": "33e389b67f22492934588486b8d083d816de49090b7b8756d823439ed7cff5e1"
+  },
+  {
     "file": ".gitignore",
     "bytes": 107,
     "sha256": "5f0206461cf5bb4db130421ebcf6072121664875a0ed1736ba125525a72dbcb3"
@@ -16,8 +21,8 @@
   },
   {
     "file": "mini_deepseek_r1_zero.ipynb",
-    "bytes": 67493,
-    "sha256": "26857be964b49fc0478e3469a6881b973a7ab273f671613ded87b74b544b3f92"
+    "bytes": 66141,
+    "sha256": "86517733821d6811f293c475997d4aca5f5b8aca1c2b495092dc2897539734a8"
   },
   {
     "file": "prepare_assets.py",
@@ -26,18 +31,18 @@
   },
   {
     "file": "project_paths.py",
-    "bytes": 2977,
-    "sha256": "20ecfa102a71063141ff36d6ec373dae0dbd96619e0d911c8c25c8d6eead203e"
+    "bytes": 2907,
+    "sha256": "2640f91902b205c33001ec2e666ca0c51e0d4e4366b8bff7cc2fbe76b1bafcb4"
   },
   {
     "file": "README.md",
-    "bytes": 8434,
-    "sha256": "b1ee05f4e4f42b6cdb2c13147b6ac1ab23ab1eda6b7d3ac33abe58f6a8da8b88"
+    "bytes": 8335,
+    "sha256": "278375339994e2caab802ab0ffa4ce20852d1896f8080a8b53fbe058525831af"
   },
   {
     "file": "recompute_results.py",
-    "bytes": 1306,
-    "sha256": "cc6b03e1a72530aa41e7ee1f3900c440e2c1eb55d16b4e3289fc29eedb5bed09"
+    "bytes": 1281,
+    "sha256": "4da0cb22e484eb99856b0e4ba85125322452d3536801f322435dcb57004491bc"
   },
   {
     "file": "requirements-vllm.txt",
@@ -91,13 +96,13 @@
   },
   {
     "file": "results/protocol.json",
-    "bytes": 1467,
-    "sha256": "245ba570d6f80fd4f09ff9cb9b0a422c86b926382a11fa272c6961ba9894a1df"
+    "bytes": 1348,
+    "sha256": "96b663a06477b678f17d1cea3bdd691218020c0c046569cef093315a41c932f8"
   },
   {
     "file": "results/summary.csv",
-    "bytes": 302,
-    "sha256": "c7269937a9fce4480b3dbe9e80afbd436de3fdd3509a93ebde197598fb326553"
+    "bytes": 297,
+    "sha256": "31468651e28f0ca32fbe39a133a0cf3ca7a32a59f907f01039e17c2724a96424"
   },
   {
     "file": "results/train_results.json",
