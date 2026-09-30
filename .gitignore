@@ -1,0 +1,8 @@
+model_backups/
+grpo_project/
+*.safetensors
+*.bin
+*.partial
+.venv/
+__pycache__/
+.ipynb_checkpoints/

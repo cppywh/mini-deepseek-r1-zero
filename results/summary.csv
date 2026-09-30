@@ -1,0 +1,5 @@
+﻿name,correct,total,accuracy,eligible_correct,eligible_total,accuracy_non_limit,hit_limit_count,truncated_count,parse_ok_count
+Base,51,100,0.51,51,99,0.5151515151515151,1,1,66
+GRPO,81,100,0.81,81,100,0.81,0,0,98
+Distill,60,100,0.6,60,100,0.6,0,0,72
+Instruct-Think,56,100,0.56,56,56,1.0,44,44,56

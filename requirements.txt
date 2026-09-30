@@ -1,0 +1,10 @@
+# Python >= 3.10。建议新建独立环境；先按 GPU/CUDA 安装匹配的 PyTorch。
+# 这组版本满足 TRL 1.14.1 的官方依赖要求，并固定版本便于重复实验。
+# pip install -r requirements.txt
+trl==1.14.1
+transformers==4.57.6
+datasets==4.7.0
+peft==0.17.0
+accelerate==1.10.0
+bitsandbytes==0.47.0
+matplotlib==3.10.5

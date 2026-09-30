@@ -1,0 +1,4 @@
+# 仅在使用 vLLM colocate 档位时安装；先核对当前 CUDA 和 torch。
+# TRL 1.14.1 声明支持 vLLM >=0.20.0, <=0.30.0。
+# vLLM 0.20.0 要求 torch 2.11.0，pip 可能替换现有 PyTorch。
+vllm==0.20.0

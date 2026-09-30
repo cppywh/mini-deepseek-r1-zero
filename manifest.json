@@ -1,0 +1,107 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 107,
+    "sha256": "5f0206461cf5bb4db130421ebcf6072121664875a0ed1736ba125525a72dbcb3"
+  },
+  {
+    "file": "assets/accuracy.svg",
+    "bytes": 1081,
+    "sha256": "06013745c3135978fc17a033efae3b74fc59f24cb111bc9cc7508a65d59e65ed"
+  },
+  {
+    "file": "assets/grpo_training_curves.png",
+    "bytes": 412943,
+    "sha256": "6d028ae4aad0af6e0802e8bbdb24d99704ddf8ddeaacebb95f37ba40f5f36114"
+  },
+  {
+    "file": "mini_deepseek_r1_zero.ipynb",
+    "bytes": 67493,
+    "sha256": "26857be964b49fc0478e3469a6881b973a7ab273f671613ded87b74b544b3f92"
+  },
+  {
+    "file": "prepare_assets.py",
+    "bytes": 2152,
+    "sha256": "89b7504a69ac82a1df98cdfc2d7c9c8538ed963d737145b0503ca4d1ad5a60a5"
+  },
+  {
+    "file": "project_paths.py",
+    "bytes": 2977,
+    "sha256": "20ecfa102a71063141ff36d6ec373dae0dbd96619e0d911c8c25c8d6eead203e"
+  },
+  {
+    "file": "README.md",
+    "bytes": 8434,
+    "sha256": "b1ee05f4e4f42b6cdb2c13147b6ac1ab23ab1eda6b7d3ac33abe58f6a8da8b88"
+  },
+  {
+    "file": "recompute_results.py",
+    "bytes": 1306,
+    "sha256": "cc6b03e1a72530aa41e7ee1f3900c440e2c1eb55d16b4e3289fc29eedb5bed09"
+  },
+  {
+    "file": "requirements-vllm.txt",
+    "bytes": 217,
+    "sha256": "5185ff0c9b746d58739685de1e564b0876976161cd47ea51fd046e2eda6d48b6"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 337,
+    "sha256": "2e7be87c953fc8832a731f75dcaecf7cee889e8e6add388a505b7fd462dadb7f"
+  },
+  {
+    "file": "results/Base.json",
+    "bytes": 165385,
+    "sha256": "0d9a0d8b85e6538a5927b610bd5ddad66bf0f81d9bb71b9ab93ed6c67523c7f8"
+  },
+  {
+    "file": "results/Distill.json",
+    "bytes": 198851,
+    "sha256": "eef5508369d3edd523d1a197da4160b2637348b8347c67f335f1db237720c5e3"
+  },
+  {
+    "file": "results/experiment_config.json",
+    "bytes": 912,
+    "sha256": "91e1f42aba969aac6aa8c2219f282803b176af9379ff9b55130bdc0f5ed0c63c"
+  },
+  {
+    "file": "results/GRPO.json",
+    "bytes": 155964,
+    "sha256": "eabcb9a9c496d6a78e4bb98c8cd9418b90e065d13b73a6e1154b669d0ecf359c"
+  },
+  {
+    "file": "results/grpo_training_curves.png",
+    "bytes": 412943,
+    "sha256": "6d028ae4aad0af6e0802e8bbdb24d99704ddf8ddeaacebb95f37ba40f5f36114"
+  },
+  {
+    "file": "results/Instruct-Think.json",
+    "bytes": 627694,
+    "sha256": "f162b9aa96561f72f790e6d4b0bb471bf048dfa7de1475f1a5da5f85b3cbd4a8"
+  },
+  {
+    "file": "results/instruct_batch_protocol.json",
+    "bytes": 1052,
+    "sha256": "7aa40d9e144d4e99805c4fb9058276523025afa85ce9e4bda6f58d6574016d65"
+  },
+  {
+    "file": "results/log_history.json",
+    "bytes": 625680,
+    "sha256": "b7c2eb3cf458e2063a280608858682dfae61ebbf44f110ea4123952064699478"
+  },
+  {
+    "file": "results/protocol.json",
+    "bytes": 1467,
+    "sha256": "245ba570d6f80fd4f09ff9cb9b0a422c86b926382a11fa272c6961ba9894a1df"
+  },
+  {
+    "file": "results/summary.csv",
+    "bytes": 302,
+    "sha256": "c7269937a9fce4480b3dbe9e80afbd436de3fdd3509a93ebde197598fb326553"
+  },
+  {
+    "file": "results/train_results.json",
+    "bytes": 208,
+    "sha256": "888001dabb286e3558388df4b0bcc7cce9aa6ba4640931cebbcd372c00d6c157"
+  }
+]
