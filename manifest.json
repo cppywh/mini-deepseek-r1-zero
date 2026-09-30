@@ -1,13 +1,13 @@
 [
   {
     "file": ".gitattributes",
-    "bytes": 161,
-    "sha256": "33e389b67f22492934588486b8d083d816de49090b7b8756d823439ed7cff5e1"
+    "bytes": 152,
+    "sha256": "42c853013872498c6b87c0884534c9f543fa224fa9413c77e83ec19421183f21"
   },
   {
     "file": ".gitignore",
-    "bytes": 107,
-    "sha256": "5f0206461cf5bb4db130421ebcf6072121664875a0ed1736ba125525a72dbcb3"
+    "bytes": 99,
+    "sha256": "11354ba94a82b48a43c11f0fa99cb239f0aaac34034e0b40d3eefe7363ed1c1c"
   },
   {
     "file": "assets/accuracy.svg",
